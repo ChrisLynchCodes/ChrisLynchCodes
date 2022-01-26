@@ -6,6 +6,7 @@ I had an internship in 2021 where I worked as a fullstack ASP.NET developer for 
 
 ### C#, Dotnet Core/Framework === JavaScript, React, Node Express === HTML CSS === SQL Server Mongo DB
 ### Contact: ChrisLynchCodes@gmail.com
+![csharp](https://user-images.githubusercontent.com/13291292/151109360-ba9d506c-9534-462a-bb9d-b5a7d7c1b73a.svg)
 
 ## Projects
 I am currently working on my final year honours project which is a full stack e-commerce application. 
