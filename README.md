@@ -12,15 +12,15 @@ I am currently working on my final year honours project which is a full stack e-
 - [x] Consuming my API in my React SPA 
 - [ ] Employed as a developer :pray:
 
-[dotnet core API](https://github.com/ChrisLynchCodes/HonsAPI)   ---   [React SPA](https://github.com/ChrisLynchCodes/hons-frontend)
+[Dotnet Core API](https://github.com/ChrisLynchCodes/HonsAPI)   ---   [React SPA](https://github.com/ChrisLynchCodes/hons-frontend)
 
 I have a number of other projects in my repos but the above are the biggest in scope.
 
 - [Github Profile Locator](https://github.com/ChrisLynchCodes/github-profile-locator)
 - [Feedback App](https://github.com/ChrisLynchCodes/feedback-app)
 - [Task Tracker App](https://github.com/ChrisLynchCodes/Task-Tracker-Base)
-- [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird
-  +![](https://i.imgur.com/humqlbh.png)
+- [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird)
+    +![](https://i.imgur.com/humqlbh.png)
 
 <!--
 **ChrisLynchCodes/ChrisLynchCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
