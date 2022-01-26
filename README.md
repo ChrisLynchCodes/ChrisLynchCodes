@@ -4,7 +4,13 @@ I am currently in my final year of university studying BSc Computer Science and 
 
 I had an internship in 2021 where I worked as a fullstack ASP.NET developer for an SME building a web application from the ground up in Scotland. I learned **A LOT** here through taking part in daily standups, working with expereinced devs implementing things such as the repository pattern in the data access layer, and using tools such as AutoFac to implement dependency injection and Dapper to configure mappings, and using the dev express visual component suite.
 
-#### C#, Dotnet Core/Framework === JavaScript, React, Node Express === HTML CSS === SQL Server Mongo DB
+
+- C#, Dotnet Core/Framework
+  -Web API, MVC, Dapper, AutoMapper, AutoFac   
+- JavaScript, React, Node Express
+- SQL Server Mongo DB
+- HTML CSS
+
 ### Contact: ChrisLynchCodes@gmail.com
 
 <span style="color:blue">C#</span>
