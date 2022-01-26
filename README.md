@@ -13,7 +13,6 @@ I had an internship in 2021 where I worked as a fullstack ASP.NET developer for 
 
 ### Contact: ChrisLynchCodes@gmail.com
 
-<span style="color:blue">C#</span>
 
 
 
