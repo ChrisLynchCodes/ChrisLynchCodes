@@ -4,6 +4,7 @@ I am currently in my final year of university studying BSc Computer Science and 
 
 I had an internship in 2021 where I worked as a fullstack ASP.NET developer for an SME building a web application from the ground up in Scotland. I learned **A LOT** here through taking part in daily standups, working with expereinced devs implementing things such as the repository pattern in the data access layer, and using tools such as AutoFac to implement dependency injection and Dapper to configure mappings, and using the dev express visual component suite.
 
+### Contact: ChrisLynchCodes@gmail.com
 
 ## Projects
 I am currently working on my final year honours project which is a full stack e-commerce application. 
@@ -21,7 +22,7 @@ I have a number of other projects in my repos but the above are the biggest in s
 - [Task Tracker App](https://github.com/ChrisLynchCodes/Task-Tracker-Base)
 - [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird)
   
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <!--
 **ChrisLynchCodes/ChrisLynchCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
