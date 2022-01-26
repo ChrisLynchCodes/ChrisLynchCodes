@@ -22,7 +22,9 @@ I have a number of other projects in my repos but the above are the biggest in s
 - [Task Tracker App](https://github.com/ChrisLynchCodes/Task-Tracker-Base)
 - [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird)
   
-![Visitor Count](https://profile-counter.glitch.me/{chrislynchcodes}/count.svg)
+### Vists![Visitor Count](https://profile-counter.glitch.me/{chrislynchcodes}/count.svg)
+
+
 <!--
 **ChrisLynchCodes/ChrisLynchCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
