@@ -17,7 +17,7 @@ I completed an internship in 2021 where I worked as a fullstack ASP.NET develope
 
 
 ## Projects
-I am currently working on my final year honours project which is a full stack e-commerce application. [Located here...](https://uwssurvival.herokuapp.com) 
+I am currently working on my final year honours project which is a full stack e-commerce application. [Located here...](https://uwssurvival.herokuapp.com) - The server can take a bit to kick up so if products don't load on the homepage give a few seconds and ctl + f5 to refresh.
 - [x] Storing my data in a MongoDb database hosted as a service through MongoDb Atlas
 - [x] Querying my database with a dotnet core WebApi 
 - [x] Consuming my API in my React SPA 
