@@ -34,7 +34,8 @@ I have a number of other projects in my repos but the above are the biggest in s
   C# console application implementation of the game Rock, Paper, Scissors, Lizard, Spock.
   Dependency Injection and Logging configured. Included project of unit tests.
   
-- [Wildlife Reporter Progressive Web App](https://github.com/ChrisLynchCodes/dwt-reporter)
+- [Wildlife Reporter Progressive Web App Repo](https://github.com/ChrisLynchCodes/dwt-reporter)
+- [Wildlife Reporter Progressive Web App Live version](https://dwtproject-75c16.web.app/)
   Progressive Web App, downloadable to your device and works offline. 
   Using device hardware API's to get geo location, device's share interface, and access camera. Hosed on firebase.
   
