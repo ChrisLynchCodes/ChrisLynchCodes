@@ -28,10 +28,24 @@ I am currently working on my final year honours project which is a full stack e-
 I have a number of other projects in my repos but the above are the biggest in scope.
 
 - [Github Profile Locator](https://github.com/ChrisLynchCodes/github-profile-locator)
-- [Feedback App](https://github.com/ChrisLynchCodes/feedback-app)
-- [Task Tracker App](https://github.com/ChrisLynchCodes/Task-Tracker-Base)
-- [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird)
+  Search for GitHub users and view their repos, React application using the GitHub API
   
+- [Rock, Paper, Scissors, Lizard, Spock](https://github.com/ChrisLynchCodes/ArnoldClarkHackDay)
+  C# console application implementation of the game Rock, Paper, Scissors, Lizard, Spock.
+  Dependency Injection and Logging configured. Included project of unit tests.
+  
+- [Wildlife Reporter Progressive Web App](https://github.com/ChrisLynchCodes/dwt-reporter)
+  Progressive Web App, downloadable to your device and works offline. 
+  Using device hardware API's to get geo location, device's share interface, and access camera. Hosed on firebase.
+  
+- [Feedback App](https://github.com/ChrisLynchCodes/feedback-app)
+  Feedback app using some standard React hooks and JSON server to simulate back end
+
+- [Task Tracker App](https://github.com/ChrisLynchCodes/Task-Tracker-Base)
+  Task tracker app to implement CRUD and some simple hooks in React
+  
+- [Blazor Bird](https://github.com/ChrisLynchCodes/BlazorBird)
+  Testing what its like to write C# on the client side
 ### Vists![Visitor Count](https://profile-counter.glitch.me/{chrislynchcodes}/count.svg)
 
 
