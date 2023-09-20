@@ -4,7 +4,8 @@ Currently Working on
 [scraperservice](https://github.com/ChrisLynchCodes?tab=repositories)
 [service-finder](https://github.com/ChrisLynchCodes/service-finder)
 
-![Image](https://i.imgur.com/6rGyI30.png)
+## Rough idea of what I am building - very early stages will be fleshing out more in the future
+![Image](https://i.imgur.com/fjEc5Mm.png)
 
 
 
