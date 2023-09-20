@@ -1,7 +1,15 @@
 ### Software Engineer
 Currently Working on
-https://github.com/ChrisLynchCodes/scraperservice
+[account-service](https://github.com/ChrisLynchCodes/account-service-spring-boot)
+[scraperservice](https://github.com/ChrisLynchCodes?tab=repositories)
+[service-finder](https://github.com/ChrisLynchCodes/service-finder)
+
 ![Image](https://i.imgur.com/6rGyI30.png)
+
+
+
+
+
 
 
 - Java - Spring Framework/Boot
