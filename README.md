@@ -1,22 +1,15 @@
 ### Software Engineer
-Currently Working on
-[account-service](https://github.com/ChrisLynchCodes/account-service-spring-boot)
-[scraperservice](https://github.com/ChrisLynchCodes?tab=repositories)
-[service-finder](https://github.com/ChrisLynchCodes/service-finder)
-
-## Rough idea of what I am building - very early stages will be fleshing out more in the future
-![Image](https://i.imgur.com/fjEc5Mm.png)
 
 
-
-
-
-
-
-- Java - Spring Framework/Boot
-- SQL - MongoDB
-- JavaScript - React
-- C# - .NET
+- Java
+- Kafka
+- Spring Boot
+- Hibernate 
+- SQL
+- Docker 
+- CI/CD
+- GIT
+- Micro services 
 
 ### Contact: ChrisLynchCodes@gmail.com
 
